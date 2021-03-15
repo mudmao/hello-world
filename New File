@@ -1,0 +1,3 @@
+print("nice to meet u!")
+for i in range(1000):
+	print(pow(i,2))
